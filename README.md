@@ -15,4 +15,4 @@ Wait for the user to push a key in a second loop(on the main thread or another n
 When the user presses a key, check if the last two numbers are the same. If they are, tell the user that they correctly identified the repeat.
 If they are not, indicate that they got it wrong.
 
-Use lock statements to ensure that only one thread accesses the shared data at a time. 
+Use lock statements to ensure that only one thread accesses the shared data at a time.

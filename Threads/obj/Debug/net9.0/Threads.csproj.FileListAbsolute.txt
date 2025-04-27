@@ -1,0 +1,12 @@
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Repeating-System\Threads\bin\Debug\net9.0\Threads.deps.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Repeating-System\Threads\bin\Debug\net9.0\Threads.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Repeating-System\Threads\bin\Debug\net9.0\Threads.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Repeating-System\Threads\obj\Debug\net9.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Repeating-System\Threads\obj\Debug\net9.0\Threads.AssemblyInfoInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Repeating-System\Threads\obj\Debug\net9.0\Threads.AssemblyInfo.cs
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Repeating-System\Threads\obj\Debug\net9.0\Threads.csproj.CoreCompileInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Repeating-System\Threads\obj\Debug\net9.0\Threads.sourcelink.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Repeating-System\Threads\obj\Debug\net9.0\Threads.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Repeating-System\Threads\obj\Debug\net9.0\refint\Threads.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Repeating-System\Threads\obj\Debug\net9.0\Threads.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Repeating-System\Threads\obj\Debug\net9.0\ref\Threads.dll
